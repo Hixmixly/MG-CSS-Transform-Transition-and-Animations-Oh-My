@@ -1,3 +1,5 @@
 main {
-    transform: skew( 20deg, -35deg);
+    transform: skew(25deg, -15deg);
+    height: 500px;
+    width: 800px;
 }
