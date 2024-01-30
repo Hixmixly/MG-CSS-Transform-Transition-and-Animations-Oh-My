@@ -1,5 +1,11 @@
-main {
-    transform: skew(25deg, -15deg);
-    height: 500px;
-    width: 800px;
+
+
+@media (max-width: 600px) {
+
+    main {
+        transform: skew(25deg, -15deg);
+        height: 500px;
+        width: 700px;
+    }
+
 }
